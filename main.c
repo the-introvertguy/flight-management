@@ -265,8 +265,8 @@ void displayHistory()
     flight *curr = historyFront;
     if (!curr)
     {
-        gotoxy(40, y + 2);
-        printf("\t\tNo flight history available.\n");
+        gotoxy(45, y + 2);
+        printf("No flight history available.\n");
         y += 6;
     }
     else
@@ -294,7 +294,7 @@ void displayHistory()
         y += 2;
     }
 
-    gotoxy(40, y);
+    gotoxy(45, y);
     printf(YEL "Press any key to continue..." reset);
     getch();
 }
@@ -651,8 +651,8 @@ void displayAllFlights()
     flight *curr = incomingFront;
     if (!curr)
     {
-        gotoxy(40, y + 2);
-        printf("\t\tNo incoming flights scheduled.\n");
+        gotoxy(45, y + 2);
+        printf("No incoming flights scheduled.\n");
         y += 6;
     }
     else
@@ -678,8 +678,8 @@ void displayAllFlights()
     curr = outgoingFront;
     if (!curr)
     {
-        gotoxy(40, y + 2);
-        printf("\t\tNo outgoing flights scheduled.\n");
+        gotoxy(45, y + 2);
+        printf("No outgoing flights scheduled.\n");
         y += 6;
     }
     else
@@ -701,7 +701,7 @@ void displayAllFlights()
         }
     }
 
-    gotoxy(40, y + 2);
+    gotoxy(45, y + 2);
     printf(YEL "Press any key to continue..." reset);
     getch();
 }
