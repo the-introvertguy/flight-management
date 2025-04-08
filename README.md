@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75381ea8-986b-41c2-871f-32de494a4c08)# Flight Management System ✈️
+# Flight Management System ✈️
 
 A **Flight Management System** project developed as part of the coursework for **Data Structures (CSE124)** at **Daffodil International University**. This project is instructed by **Professor Dr. Sheak Rashed Haider Noori**, Head of the Department of Computer Science and Engineering.
 
