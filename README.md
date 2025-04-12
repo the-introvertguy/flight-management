@@ -6,7 +6,7 @@ A **Flight Management System** project developed as part of the coursework for *
 
 ## 📝 Project Overview
 
-The **Flight Management System** is a C++-based application designed to manage airport flight operations efficiently. It provides a user-friendly interface for managing flights, including features such as adding flights, displaying all flights, managing seat allocations, delaying or canceling flights, checking flight statuses, viewing statistics and history, and prioritizing flights based on specific criteria.
+The **Flight Management System** is a C++-based application designed to manage airport flight operations efficiently . It provides a user-friendly interface for managing flights, including features such as adding flights, displaying all flights, managing seat allocations, delaying or canceling flights, checking flight statuses, viewing statistics and history, and prioritizing flights based on specific criteria.
 
 ### Features
 - **Add Flight**: Add new flights to the system.
