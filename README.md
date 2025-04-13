@@ -46,10 +46,10 @@ This project was developed by the following team members:
 ## 🛠️ Prerequisites
 
 > [!IMPORTANT]  
-> This program is designed with **C++**. A C++ compiler is mandatory to compile and run the code.
+> This program is designed with **C**. A C compiler is mandatory to compile and run the code.
 
 To run this project, ensure you have the following installed:
-- A C++ compiler (e.g., `g++` for Linux/Mac or MinGW for Windows).
+- A C compiler (e.g., `gcc` for Linux/Mac or MinGW for Windows).
 - Git (to clone the repository).
 - A terminal or command-line interface.
 - (Optional) An IDE like Visual Studio Code, CLion, or Code::Blocks for easier development.
@@ -74,10 +74,10 @@ cd flight-management
 ```
 
 ### 2. Compile the Code
-Compile the C++ code using a C++ compiler. If you're using `g++`, run the following command:
+Compile the C code using a C compiler. If you're using `gcc`, run the following command:
 
 ```bash
-g++ main.cpp -o flight_management
+gcc main.cpp -o flight_management
 ```
 
 This will generate an executable file named `flight_management`.
@@ -134,7 +134,7 @@ Shows available seats, average delay percentile, amount of incoming and outgoing
 
 ## 📜 Code Structure
 
-The project is primarily written in C++ and uses data structures to manage flight information efficiently. Here's a brief overview of the codebase:
+The project is primarily written in C and uses data structures to manage flight information efficiently. Here's a brief overview of the codebase:
 
 - **`main.cpp`**: The entry point of the program, containing the main menu and user interaction logic.
 - **Flight Management Logic**: Implements core functionalities like adding, delaying, and canceling flights.
