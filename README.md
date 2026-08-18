@@ -142,7 +142,7 @@ The project is primarily written in C and uses data structures to manage flight 
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing🤝
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -165,7 +165,7 @@ For any inquiries or suggestions, feel free to reach out to the authors:
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments 🙏
 
 - **Professor Dr. Sheak Rashed Haider Noori** for guiding us throughout this project.
 - **Daffodil International University** for providing the resources and environment to work on this project.
@@ -179,7 +179,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-### Happy Flying! ✈️
+### Happy Flying! ✈️✈️
 
 
 
